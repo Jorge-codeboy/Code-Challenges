@@ -1,3 +1,3 @@
-# SoloLearn-Challenges
+# Code-Challenges
 Code Solutions.
 All are coded in Java SE8.
